@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi I'm Moauya 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/moauya-meghari/"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/6186572/moauya-meghari"><img src="https://img.shields.io/badge/Stackoverflow-%23ec7c23?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-<!--
-**mo3auya91/mo3auya91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A web developer who is passionate about creating technology.
 
-Here are some ideas to get you started:
+- 🔭 I'm a software developer [@Ns3a](https://www.ns3a.com/) in Riyadh, KSA
+- 🔭 Technologies I use include: #PHP, #Laravel, #MySql, #Javascript, #VueJS, #Firebase, #Pusher, #Git, #CSS, #NodeJS, #Jira, #LAMP, #Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+NOTE: All my repo are private because they are belongs to the company I work with.
