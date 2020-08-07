@@ -4,7 +4,7 @@
   <a href="https://stackoverflow.com/users/6186572/moauya-meghari"><img src="https://img.shields.io/badge/Stackoverflow-%23ec7c23?style=flat&logo=stackoverflow&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/mo3auya91/mo3auya91/blob/master/profile-img.png" align="right" width="25%"/>
 
 A web developer who is passionate about creating technology.
 
