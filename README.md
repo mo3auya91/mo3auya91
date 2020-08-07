@@ -11,4 +11,4 @@ A web developer who is passionate about creating technology.
 - 🔭 I'm a software developer [@Ns3a](https://www.ns3a.com/) in Riyadh, KSA
 - 🔭 Technologies I use include: #PHP, #Laravel, #MySql, #Javascript, #VueJS, #Firebase, #Pusher, #Git, #CSS, #NodeJS, #Jira, #LAMP, #Nginx
 
-NOTE: All my repo are private because they are belongs to the company I work with.
+NOTE: All my repos are private because they are belongs to the company I work with.
